@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Walter Cassule🙏🏾
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UniFECAF  
-📊 Apaixonado por Dados, AWS, Power BI e Qualidade  
-🌍 Angolano vivendo no Brasil 
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na UniFECAF.  
+📊 Apaixonado por Nuvem AWS e Customer Experience.  
+🌍 Angolano vivendo no Brasil. 
 
 **`Analista Cloud AWS`**
 
@@ -29,7 +29,7 @@ Atuado profissionalmente na área de Qualidade com experiência no setor de cont
 
 ### 📖 Projetos
 
-<a href="https://eloquent-cactus-f70bee.netlify.app/" target="_blank" rel="noopener noreferrer">App Mundo Mio</a>
+<a href="https://stunning-kleicha-bb9be6.netlify.app/" target="_blank" rel="noopener noreferrer">App Mundo Mio</a>
 
 ---
 
