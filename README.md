@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Walter Cassule🙏🏾
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na UniFECAF.  
-📊 Apaixonado por Nuvem AWS e Customer Experience.  
+📊 Interesse em Nuvem AWS, Dados e Customer Experience.  
 🌍 Angolano vivendo no Brasil. 
 
 **`Analista Cloud AWS`**
