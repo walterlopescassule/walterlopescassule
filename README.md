@@ -5,8 +5,7 @@
 
 **`Analista Cloud AWS`**
 
-Atuando profissionalmente como Analista de Qualidade com experiência no setor de contact center, atuando com análise de dados de atendimento, melhoria contínua e projetos voltados à experiência do cliente.  Tenho domínio em Excel e estou em constante evolução com ferramentas como Power BI, SQL e Python. Formado pela Escola da Nuvem no programa AWS re/Start, onde me especializei em computação em nuvem com foco em serviços da AWS e práticas DevOps, "[Treinamento  e Certificação da Amazon Web Service](https://www.credly.com/users/walter-cassule)". Atualmente, estou buscando minha primeira oportunidade como Cloud Support Júnior, Cloud Analyst ou DevOps Júnior, com o objetivo de aplicar meus conhecimentos técnicos e continuar evoluindo na jornada profissional com foco em soluções escaláveis e eficientes na nuvem.
-
+Sou um profissional em transição de carreira, com experiência em atendimento ao cliente e monitoria de qualidade. Atualmente curso Análise e Desenvolvimento de Sistemas e sou formado em Computação em Nuvem pela Escola da Nuvem (AWS re/Start). Possuo a certificação AWS Certified Cloud Practitioner, além de conhecimentos em banco de dados. Busco oportunidades como Analista Cloud Júnior ou Analista de Dados Júnior, onde possa aprender continuamente e agregar valor com soluções que otimizem processos.
 
  <p align="left">
     <a href="https://github.com/walterlopescassule?tab=repositories&sort=stargazers">
