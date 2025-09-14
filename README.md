@@ -5,7 +5,7 @@
 
 **`Analista Cloud AWS`**
 
-Sou um profissional em transição de carreira, com experiência em atendimento ao cliente e monitoria de qualidade. Atualmente curso Análise e Desenvolvimento de Sistemas e sou formado em Computação em Nuvem pela Escola da Nuvem (AWS re/Start). Possuo a certificação AWS Certified Cloud Practitioner, além de conhecimentos em banco de dados. Busco oportunidades como Analista Cloud Júnior ou Analista de Dados Júnior, onde possa aprender continuamente e agregar valor com soluções que otimizem processos.
+Sou um profissional em transição de carreira, com experiência em atendimento ao cliente e monitoria de qualidade. Atualmente curso Análise e Desenvolvimento de Sistemas e sou formado em Computação em Nuvem pela Escola da Nuvem (AWS re/Start). Possuo a certificação AWS Certified Cloud Practitioner e me formando em AWS Developer, além de conhecimentos em banco de dados. 
 
  <p align="left">
     <a href="https://github.com/walterlopescassule?tab=repositories&sort=stargazers">
